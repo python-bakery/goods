@@ -3,7 +3,9 @@ description: A Gallery of Open-source Demo Scripts
 baseurl: "/goods"
 author: Austin Cory Bart (acbart@udel.edu)    https://acbart.com
 url: "https://python-bakery.github.io"
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 markdown: kramdown
