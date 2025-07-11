@@ -1,6 +1,6 @@
 title: Bakery GOODS
 description: A Gallery of Open-source Demo Scripts
-baseurl: "goods"
+baseurl: "/goods"
 url: "https://python-bakery.github.io/goods"
 theme: minima
 markdown: kramdown
