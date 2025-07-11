@@ -1,6 +1,7 @@
 title: Bakery GOODS
 description: A Gallery of Open-source Demo Scripts
 baseurl: "/goods"
+author: "Austin Cory Bart <acbart@udel.edu>"
 url: "https://python-bakery.github.io"
 theme: minima
 markdown: kramdown
