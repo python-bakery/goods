@@ -12,3 +12,4 @@ This simple Python script prints "Hello, world!" to the console.
 
 ```python
 {% include_relative main.py %}
+```
