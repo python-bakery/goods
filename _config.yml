@@ -1,0 +1,9 @@
+title: Bakery GOODS
+description: A Gallery of Open-source Demo Scripts
+baseurl: "goods"
+url: "https://python-bakery.github.io/goods"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
