@@ -9,6 +9,6 @@ Welcome to the GOODS collection of Python programs. Browse through the curated g
 
 {% for program in site.pages %}
   {% if program.path contains 'gallery/' and program.name == 'README.md' %}
-- [{{site.baseurl}}{{ program.title | default: program.dir | split: '/' | last }}]({{ program.url }})
+- [{{ program.title | default: program.dir | split: '/' | last }}]({{site.baseurl}}{{ program.url }})
   {% endif %}
 {% endfor %}
